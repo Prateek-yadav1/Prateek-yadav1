@@ -17,10 +17,6 @@ About Me👨🏻‍🎓
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prateek-yadav1&theme=radical" alt="GitHub Streak" />
 </p>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-yadav1&layout=compact&theme=radical" alt="Top Languages" /> </p>
-
 ----------------------------------------
 🙏 Thanks for visiting my profile!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Prateek-yadav1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <b>Let's connect and build something awesome together 🚀</b> </p>
